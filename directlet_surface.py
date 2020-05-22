@@ -1,3 +1,6 @@
+# Created by Chang Liu, Boston University
+# cliu17@bu.edu
+
 import numpy as np
 from scipy import stats
 import matplotlib.pyplot as plt
