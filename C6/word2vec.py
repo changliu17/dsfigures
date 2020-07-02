@@ -1,3 +1,7 @@
+##Create by Chang Liu
+## cliu17 [at] bu.edu
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -100,3 +104,4 @@ for i in range(len(eg)//2):
     
 plt.show()
 
+## Reference： https://web.stanford.edu/class/cs224n/materials/Gensim%20word%20vector%20visualization.html
